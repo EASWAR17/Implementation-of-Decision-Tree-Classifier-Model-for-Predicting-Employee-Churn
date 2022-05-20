@@ -59,9 +59,8 @@ dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 ![x3](https://user-images.githubusercontent.com/94154683/169513082-47b67344-6c44-4ff8-a520-8c341f312eab.png)
 ### DATA ISNULL
 ![x3as3](https://user-images.githubusercontent.com/94154683/169513065-14c88236-9210-487c-a477-78c487c4489a.png)
+
 ### DATA LEFT
-![x4](https://user-images.githubusercontent.com/94154683/169513068-b259f343-c0e4-405a-867c-af914ec01a89.png)
-### DATA HEAD
 ![x5](https://user-images.githubusercontent.com/94154683/169513070-33d9ed74-b4f7-4e46-9966-8c60efbec5e5.png)
 ### X HEAD
 ![x6](https://user-images.githubusercontent.com/94154683/169513073-402a0256-0d5a-46d6-a34a-271cd223be71.png)
